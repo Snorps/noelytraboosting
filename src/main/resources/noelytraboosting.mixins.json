@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "net.snorps.noelytraboosting.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "noelytraboosting.refmap.json",
+	"mixins": [
+		"FireworkRocketItemMixin"
+	],
+	"client": [
+	],
+	"minVersion": "0.8"
+}
