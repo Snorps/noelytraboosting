@@ -1,4 +1,4 @@
-No Elytra Boosging Minecraft Mod
+# No Elytra Boosting - Minecraft Mod
 
 In modern versions with mending and rocket boosting, the elytra is effectively just survival flight that renders all other transport obsolete.
 
